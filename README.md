@@ -1,4 +1,5 @@
-# Soccer Players Detector by Leticia Lorena Rodríguez
+# Soccer Players Detector 
+## by Leticia Lorena Rodríguez
 
 ## About
 
@@ -24,7 +25,7 @@ sudo apt-get install yasm
 
 ## Run
 
-`
+```
 Run: ./fplayers [-f <filename>] [-v] [-d] [-i] [-t] [-s <step>] [-h] [-r <process>] [-g <offset>] [-p <frame_from> <frame_to>]
 Command line parameters:
 	-f	<filename>	 Specifies video filename to process
@@ -41,6 +42,6 @@ Command line parameters:
 	-h			 Show this help
 
 EOM
-`
+```
 
 ## Techinical Details
