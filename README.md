@@ -100,3 +100,7 @@ In Test Mode:
 The frames pass each time a key is pressed. In test.log file is saved the key press in each frame. This could be use to mark frames as ok or not ok and take statistics about the implementation performance. 
 
 ## Techinical Details
+
+Wiki: https://github.com/letyrodridc/soccer_players_detector/wiki
+
+Document (in Spanish): https://github.com/letyrodridc/soccer_players_detector/blob/master/ORGA2-TP_FINAL_LRODRIGUEZ-INFORME-v2.pdf
